@@ -74,21 +74,15 @@ HoyaHacks 2021
   <img align="left" alt="Ganesh's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
 </a>
 
-<a href="https://github.com/pillaiganeshmohan">
-  <img align="left" alt="Ganesh's Github" width="22px" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" />
-</a>
+![GitHub followers](https://img.shields.io/github/followers/pillaiganeshmohan?color=%2300FF00&label=Follow&logo=Github&style=plastic)
 
-<a href="https://www.instagram.com/_i__am_lucifer/">
-  <img align="left" alt="Ganesh's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
-</a>
-
+![Twitter URL](https://img.shields.io/twitter/url?color=%23FF1493&label=Instagram&logo=Instagram&style=plastic&url=https%3A%2F%2Fwww.instagram.com%2F_i__am_lucifer%2F)
+  
 <a href="https://www.facebook.com/ganesh.mohan.794">
   <img align="left" alt="Ganesh's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
-<a href="https://twitter.com/_i__am_lucifer">
-  <img align="left" alt="Ganesh's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
-</a>
+![Twitter Follow](https://img.shields.io/twitter/follow/_i__am_lucifer?color=%09%09&logo=Twitter&style=social&url=https://twitter.com/_i__am_lucifer)
 
 <a href="https://www.linkedin.com/in/ganesh-mohan-pillai-884a75212/">
   <img align="left" alt="Ganesh's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
