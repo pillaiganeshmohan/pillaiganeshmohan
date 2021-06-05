@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pillai Ganesh Mohan</h1>
 
+<p align='center'>
+  💻 My workspace<br/><br/>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i7%209th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
 ### About me🧑:
 I am Computer Engineering student and a Certified Web Developer by UC Davis.<br/>
 I have done Internship as a FullStack Developer as well as Website Tester.<br/>
