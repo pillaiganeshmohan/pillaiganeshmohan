@@ -1,145 +1,69 @@
-<h1 align="center">Hi 👋, I'm Pillai Ganesh Mohan</h1>
+<h1 align="center">Hi 👋, I'm Ganesh Mohan Pillai</h1>
 
-<p align='center'>
+<h3 align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i7%209th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</h3>
+
+<h3 align='center'>💫 About Me</h3>
+<p align="center">
+  I am a driven and versatile Computer Engineering student specializing in networking, cybersecurity, and full-stack web development. With a deep understanding of network systems and security protocols, I am equipped to design and implement robust solutions that protect sensitive information. Additionally, my proficiency in full-stack web development allows me to create dynamic and user-friendly web applications. Moreover, my experience in managing social media platforms and creating engaging content has honed my communication and marketing skills. I am a proactive learner, staying up-to-date with emerging technologies in order to provide cutting-edge solutions and contribute to the success of organizations in the ever-evolving digital landscape.
 </p>
 
-### About me🧑:
-I am Computer Engineering student and a Certified Web Developer by UC Davis.<br/>
-I have done Internship as a FullStack Developer as well as Website Tester.<br/>
-I am also GCP certified.<br/>
-I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.<br/>
-My goal is to contribute more to Open Source projects.
-
-<img align="right" alt="GIF" src="coder.jpg" width="300" height="280" />
-
-- 🔭 I’m currently working on Frontend Web Development & Android Development.
-- 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Frontend and Android Development.
-- ⚡ Fun fact: I am a weeb😁
-- 🎢 Profile Visitors Count:  
-![](https://visitor-badge.glitch.me/badge?page_id=pillaiganeshmohan.pillaiganeshmohan)
-
-<br/>
-
----
-
-<details>
-<summary>
-Languages and Tools🛠:
-</summary>
-  <br/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"></code>
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="20" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
-<code><img height="20" src="https://banner2.cleanpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-</details>
-
----
-
-<details>
-<summary> Hackathons 💻: </summary>
-  
-<br/>
-
-SIH 2020                   <br>
-Def Hacks | Global 2.0     <br>
-Octa Hacks 3.0             <br>
-HackSRM 3.0             
-UniHack                 
-NextStep Hacks         
-Hack With CW            
-ThetaHacks I            
-HoyaHacks 2021
-</details>
-
----
-
-<details>
-<summary> Connect with Me 🤝: </summary> 
-
-<br/>
-
-<a href="https://t.me/pillaiganeshmohan">
-  <img align="left" alt="Ganesh's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
-</a>
-
-<a href="https://github.com/pillaiganeshmohan">
-  <img align="left" alt="Ganesh's Github" width="22px" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" />
-</a>  
-  
-<a href="https://instagram.com/_i__am_lucifer/">
-  <img align="left" alt="Ganesh's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
-</a>
-
-<a href="https://www.facebook.com/ganesh.mohan.794">
-  <img align="left" alt="Ganesh's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
-</a>
-
-<a href="https://twitter.com/_i__am_lucifer">
-  <img align="left" alt="Ganesh's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
-</a>
-
-<a href="https://linkedin.com/in/ganesh-mohan-pillai-884a75212/">
-  <img align="left" alt="Ganesh's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
-</a>
-
-<br/>
-  
-</details>
-
----
-
-### Github Activity ✔:
-
-<a href="https://github.com/pillaiganeshmohan">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pillaiganeshmohan&theme=algolia" />
-</a>
-
-<a href="https://github.com/pillaiganeshmohan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pillaiganeshmohan&show_icons=true&theme=blue-green&line_height=27" alt="Ganesh's github stats"/>
-</a>
-
-<br/>
-<br/>
-<br/>
-<br>
-
-### My Projects ✨:
-  
-
-### Github Stats 📈:
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=pillaiganeshmohan&column=8&theme=monokai&no-bg=true&no-frame=true"/>
-</a> 
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=pillaiganeshmohan&icon=0&color=4" alt="Visit Count"/>
+  </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pillaiganeshmohan&theme=algolia" alt="pillaiganeshmohan" /></p>
+<h3 align="center"> 🌐 View My Portfolio - 
+  <a href="https://pillaiganeshmohan.github.io">Portfolio Website</a>
+</h3>
 
+<h3 align="center">📝 View My Resume - 
+  <a href="https://drive.google.com/file/d/1ulSSPKM5bHIOEAEe88vXfUtgPD4R6GRb/view?usp=sharing">Resume</a>
+  </h3>
+
+<h3 align="center">📲 Socials</h3>
 <div align="center">
-  
-
-### Show ❤️ by 🌟 my [repositories](https://github.com/pillaiganeshmohan?tab=repositories)!
-
+  <a href="https://discordapp.com/users/706894152188821545">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://facebook.com/ganesh.mohan.794">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/_i__am_lucifer">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/ganeshmohanpillai">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/ganeshmohan1210">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://youtube.com/@pillaiganeshmohan1210">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
+  </a>
 </div>
 
+<h3 align="center">🛠 Languages and Tools</h3>
+<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+
+<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=pillaiganeshmohan&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pillaiganeshmohan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  </div><br/>
+  <div style="text-align: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pillaiganeshmohan&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  </div>
+</div>
+
+<p align="center">
+  <strong>Show ❤️ by 🌟 my <a href="https://github.com/pillaiganeshmohan?tab=repositories">repositories</a>!</strong>
+</p>
